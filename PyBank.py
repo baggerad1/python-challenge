@@ -1,7 +1,6 @@
 import csv
 
 
-@ -0, 0 + 1, 58 @ @
 with open('budget_data.csv', 'r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
     header = next(csvreader)
