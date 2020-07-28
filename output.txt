@@ -1,11 +1,9 @@
 Financial Analysis
 ....................................................................................
-Election Results
+Financial Analysis
 ------------------------
-Total Votes: 1048575
-Khan: 63.0935% (661583)
-Correy: 19.9362% (209046)
-Li: 13.958% (146360)
-O'Tooley: 3.0123% (31586)
------------------------------
-Winner: Khan
+Total Months:86
+Total: $38382578
+Average Change: -2315.12
+Greatest Increase in Profits: Feb-12 ($1926159)
+Greatest Decrease in Profits: Sep-13 ($-2196167)
