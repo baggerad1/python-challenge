@@ -1,4 +1,4 @@
-+import csv
+import csv
 
 total_votes = 0
 
